@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Joryer Jesús Jiménez López
 
-### 🚀 Desarrollador Backend en formación | 🎓 Estudiante de Ingeniería en Sistemas Computacionales
+### 🚀 Desarrollador Backend | 🎓 Estudiante de Ingeniería en Sistemas Computacionales
 
 ---
 
@@ -11,8 +11,7 @@ Soy un estudiante de Ingeniería en Sistemas Computacionales en el TecNM Campus 
 - **Lenguajes de Programación:** Python 🐍, Java ☕
 - **Frameworks:** Django 🌐
 - **Frontend:** HTML, CSS3
-- **Soporte Técnico:** Certificado en Soporte y Mantenimiento de Computadoras 💻
-
+- 
 📜 **Certificaciones:**
 - Introducción al Backend - **Meta, Coursera**
 - Desarrollo Python (Básico, Intermedio y Avanzado) - **Netzun**
