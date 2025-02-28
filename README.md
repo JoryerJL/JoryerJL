@@ -20,6 +20,14 @@ I am a Computer Systems Engineering student at TecNM Campus Villahermosa, passio
 I am looking for opportunities to contribute to innovative projects while gaining practical experience in backend technologies and frameworks.
 
 ---
+### 📊 &nbsp; Stasts
+
+<p align="center">
+<a href="https://github.com/JoryerJL">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JoryerJL&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JoryerJL&layout=compact&langs_count=8&theme=tokyonight"/>
+</a>
+</p>
 
 📍 **Community:**  
 Member of **AWS User Group Villahermosa**, where I collaborate and learn about cloud technology and industry best practices. 🎉  
