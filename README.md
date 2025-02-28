@@ -1,39 +1,34 @@
-# 👋 ¡Hola! Soy Joryer Jesús Jiménez López
+# 👋 Hi! I'm Joryer Jesús Jiménez López
 
-### 🚀 Desarrollador Backend | 🎓 Estudiante de Ingeniería en Sistemas Computacionales
-
----
-
-🌐 **Sobre mí:**  
-Soy un estudiante de Ingeniería en Sistemas Computacionales en el TecNM Campus Villahermosa, apasionado por el desarrollo de software y la resolución de problemas. Con un sólido enfoque en el backend, actualmente estoy trabajando en mejorar mis habilidades técnicas y en aprender nuevas tecnologías.
-
-🛠 **Habilidades Técnicas:**
-- **Lenguajes de Programación:** Python 🐍, Java ☕
-- **Frameworks:** Django 🌐
-- **Frontend:** HTML, CSS3
-- 
-📜 **Certificaciones:**
-- Introducción al Backend - **Meta, Coursera**
-- Desarrollo Python (Básico, Intermedio y Avanzado) - **Netzun**
-- Django Básico - **Netzun**
-- Computación en la Nube con **AWS** ☁️ (en progreso)
-
-💡 **Objetivo:**  
-Estoy buscando oportunidades para contribuir en proyectos innovadores mientras adquiero experiencia práctica en tecnologías y frameworks de backend.
+### 🚀 Backend Developer | 🎓 Computer Systems Engineering Student
 
 ---
 
-📍 **Comunidad:**  
-Miembro del **AWS User Group Villahermosa** donde colaboro y aprendo sobre tecnología en la nube y mejores prácticas en el sector. 🎉
+🌐 **About Me:**  
+I am a Computer Systems Engineering student at TecNM Campus Villahermosa, passionate about software development and problem-solving. With a strong focus on backend development, I am currently working on improving my technical skills and learning new technologies.
 
-📫 **Contáctame:**
-- **Email:** [joryerjesus10@gmail.com](mailto:joryerjesus10@gmail.com)
-- **LinkedIn:** [Joryer Jesús en LinkedIn](https://www.linkedin.com/in/joryer-jimenez-563a3b171/)
-- **Portfolio:** [Mi Sitio Web](https://joryerjl.netlify.app/)
+<h3 align="left">🛠 Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/djangorest/djangorest-original-wordmark.svg" alt="django_rest" width="40" height="40"/> </a> <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" alt="jetbrains" width="40" height="40"/> </a>  <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="ngix" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="postgres" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="swagger" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg" alt="trello" width="40" height="40"/> </a></p>
+
+📜 **Certifications:**  
+- Introduction to Backend - **Meta, Coursera**  
+- Python Development (Basic, Intermediate, and Advanced) - **Netzun**  
+- Basic Django - **Netzun**  
+- Cloud Computing with **AWS** ☁️ (in progress)  
+
+💡 **Objective:**  
+I am looking for opportunities to contribute to innovative projects while gaining practical experience in backend technologies and frameworks.
 
 ---
 
-¡Gracias por visitar mi perfil! 🚀✨ Estoy abierto a colaborar y aprender. ¡No dudes en contactarme!
+📍 **Community:**  
+Member of **AWS User Group Villahermosa**, where I collaborate and learn about cloud technology and industry best practices. 🎉  
+
+📫 **Contact Me:**  
+- **Email:** [joryerjesus10@gmail.com](mailto:joryerjesus10@gmail.com)  
+- **LinkedIn:** [Joryer Jesús on LinkedIn](https://www.linkedin.com/in/joryer-jimenez-563a3b171/)  
+- **Portfolio:** [My Website](https://joryerjl.netlify.app/)  
+
 
 
 <!---
