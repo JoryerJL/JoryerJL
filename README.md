@@ -120,11 +120,15 @@ AWS Community Builder (DevTools), speaker in **4+ cities across México**, and s
 <div align="center">
 
 [![Olon](https://img.shields.io/badge/💰_Olon.mx-POS_for_Cafés_&_Retail-FF9900?style=for-the-badge)](https://olon.mx/)
+[![Hatsik](https://img.shields.io/badge/🎉_Hatsik-Collaborative_Event_Logistics-6C3483?style=for-the-badge)](https://hatsik.jjjl.dev/)
 
 </div>
 
 > **Olon** — Point of Sale system designed for coffee shops and retail businesses.  
 > Personal venture as CTO, focused on usability and operational efficiency.
+
+> **Hatsik** — Collaborative logistics app for social events.  
+> Organize who brings what — share a link, no sign-up needed. Real-time lists, zero chaos.
 
 ---
 
